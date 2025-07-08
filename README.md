@@ -6,7 +6,7 @@ A Python utility for downloading Linux distribution ISO files in parallel with r
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/linux-iso.git
+git clone https://github.com/xixu-me/linux-iso.git
 cd linux-iso
 
 # Run the setup script (recommended for first-time users)
